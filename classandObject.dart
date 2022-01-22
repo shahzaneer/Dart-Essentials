@@ -14,8 +14,13 @@ class alpha{
 // the main method
 main(){
   // we have to make the object of the class (the instance of the class)
-  alpha alphajee = new alpha();
+  // alpha alphajee = new alpha(); //commenting new keyword's line 
+  alpha alphajee = alpha();
   print(alphajee.name);
   alphajee.login();
+
+  // interesting fact : unlike java here the new keyword is optional, the work will still be done
+  
+  
 }
 
