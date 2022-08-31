@@ -20,11 +20,10 @@ void main(){
   String multiline = '''
   
   This is 
- MLSA 
- GDSC Lead
- 
-  
-  
+  Data Enthusiast
+  FullStack Engineer
+  Publication Manager Flutter Islamabad
+  Community Lead CS-Lodges
   ''';
   
   print(multiline);

@@ -28,6 +28,7 @@ List <int> studentAges = [20,40,30];
   var list4; //yeh null hai
   
 //   null Aware Spread Operator --> ...?
+// iska mtlb hai k list main jb tk null reach nhi kerta tb tk saaray elements lelo
   
   List list5 = [myConstant,...?list4];
   print(list5);
@@ -48,7 +49,7 @@ List <int> studentAges = [20,40,30];
               for(var i=6; i<=100;i++) i];
   
   
-  print(listx);
+  // print(listx);
   
   
   

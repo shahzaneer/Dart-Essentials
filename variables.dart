@@ -10,7 +10,7 @@ void main(){
   String a = 'Shahzaneer Ahmed';
   print(a);
   
-  var s = "GDSC CUI";
+  var s = "GCU Lahore";
  print(s);
  
 }

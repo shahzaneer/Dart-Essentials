@@ -1,6 +1,6 @@
 Stream<String> getName() {
   // return Stream.value("Shahzaneer Ahmed");
-  // yeh tou aik value return ki hai jbke stream continuosly krskti hai return isliay 
+  // yeh tou aik value return ki hai jbke stream continuously krskti hai return isliay 
   return Stream.periodic(const Duration(seconds: 1), ((int d) => "ShahzaneerAhmed"));
   // ab har second baad shahzaneerAhmed print hota rahega yeh asynchronous programming hai!
 }
