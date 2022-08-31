@@ -1,7 +1,6 @@
 # Dart
-``` dart
-Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. It is an object-oriented, class-based, garbage-collected language with C-style syntax
-```
+`
+Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. It is an object-oriented, class-based, garbage-collected language with C-style syntax`
 
 This includes all the basic syntax of Dart Programming language which is necessary to start flutter UI.
 
