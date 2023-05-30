@@ -6,9 +6,10 @@
 
 void main() {
   Sample s = Sample();
+  late int y;
+  // print(y); This will throw error
   // s.x = 90;
   // print(s.x);
-  
 }
 
 class Sample {

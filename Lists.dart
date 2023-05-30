@@ -4,8 +4,7 @@ void main(){
   var Students = ['2','4','5','6'];
 // explicitly list making
 List <int> studentAges = [20,40,30];
-  print(studentAges);
-  
+  print(studentAges);  
 //   dart lists are arrays basically that is only one data type can be used in a list
 //   syntax is similar to php
   print(Students.length);

@@ -15,6 +15,7 @@ class Cat {
 void main() {
   Cat emy = new Cat("Emy"); // java way
   final emy1 = Cat("EMY"); //Dart things
+  // emy1.run(); // the extension is working well!
 
   print(emy1.name);
 }

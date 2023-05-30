@@ -29,7 +29,7 @@
 
 //! Using the class as mixin
 //? isme constructor nhi houta
-class Abc {
+mixin Abc {
   void test() {
     print(' test () from Abc class as mixin');
   }

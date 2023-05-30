@@ -30,12 +30,10 @@ class Employee {
 
   // to facilitate in overloading , we can use named constructors
 
-//  Named Constructor 
+//  Named Constructor
   Employee.admin({required String this.name, required this.role}) {
     this.salary = 900000;
   }
-
-
 
   // We also have Factory Constructors
 }
